@@ -46,7 +46,7 @@ Where? Zoom
 ## How do I contact you?
 
 The preferred method to ask questions relating to this class is a public post on
-the class discussion board. ***TODO: preferred discussion board?*** 
+the class discussion board (discord).
 
 Office hours: Please email or call in advance if you plan to join.  This will
 eliminate waiting (both on your end and on our end).
@@ -92,12 +92,11 @@ https://discord.com/channels/798957218384183427/798957219885350986).
 ## Grading
 Your grade for this class will be determined by:
 
-TODO: will be updated shortly
-- ??% WebAssign and Class Participation 
-- ??% Homework
-- ??% Midterm
-- ??% Final 
-- ??% Miscellaneous Opportunities
+- 30% WebAssign and Class Participation 
+- 30% Homework
+- 15% Midterm
+- 15% Final 
+- 12% Miscellaneous Opportunities
 
 ## Class Policies
 
@@ -269,7 +268,17 @@ hear or smell you.
 - Topics: Introduction to Proofs, LaTex 
 - Reading: Chapters 1 and 2
 - Miro Links: [M](https://miro.com/app/board/o9J_lYjeVOc=/), [W](https://miro.com/app/board/o9J_lYjeVAM=/),
-  [Wb](https://miro.com/app/board/o9J_lYjeVOc=/), F
+  [Wb](https://miro.com/app/board/o9J_lYjeVOc=/),
+  [F](https://miro.com/app/board/o9J_lY4PAhw=/)
+
+### Week 2 (18 January 2021)
+- Monday is a holiday: MLK day
+- Topics: Introduction to Proofs, LaTex 
+- Reading: Chapter 2
+- Miro Links: [W](https://miro.com/app/board/o9J_lYfSSec=/),
+  [Wb](https://miro.com/app/board/o9J_lYfSTkQ=/), [F](https://miro.com/app/board/o9J_lXxJB5M=/), [Fb](https://miro.com/app/board/o9J_lXxVOK4=/)
+
+
 
 --- 
 
