@@ -386,10 +386,12 @@ hear or smell you.
 
 ### Week 14
 
-- Topics: Probability and Graphs
-- Reading: Chapter 9 and 10
+- Topics: Asymptotics
+- Reading: Chapter 11
 - Miro Links: [M](https://miro.com/app/board/o9J_lK7APus=/),
-    [Mb](https://miro.com/app/board/o9J_lK7APow=/)
+    [Mb](https://miro.com/app/board/o9J_lK7APow=/),
+    [W](https://miro.com/app/board/o9J_lKc9WpE=/),
+    [Wb](https://miro.com/app/board/o9J_lKc9WqU=/)
 
 --- 
 
