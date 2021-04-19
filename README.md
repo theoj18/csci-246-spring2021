@@ -395,6 +395,16 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lJ952FM=/),
     [Fb](https://miro.com/app/board/o9J_lJ952GU=/)
 
+### Week 15
+
+- Topics: More Asymptotics
+- Reading: Chapter 11
+- Miro Links: [M](https://miro.com/app/board/o9J_lJMn4Ig=/),
+   [Mb](https://miro.com/app/board/o9J_lJMn4I0=/),
+   [W](https://miro.com/app/board/o9J_lJMn4UQ=/),
+   [Wb](https://miro.com/app/board/o9J_lJMn4L0=/)
+
+
 --- 
 
 This syllabus was created, using wording from previous courses that I have
