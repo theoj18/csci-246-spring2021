@@ -14,7 +14,7 @@ Throughout this semester, you will have the opportunity to attend various semina
 
 ## Without Specific Dates
 
-Each of the following assingments is due one week after the event.  You can make
+Each of the following assignments is due one week after the event.  You can make
 one submission per category.  (Note that these assignments show a due date of
 Monday, 26 April 2021 since the actual event that you attend is not fixed).
 
