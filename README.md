@@ -335,7 +335,7 @@ hear or smell you.
     [Fb](https://miro.com/app/board/o9J_lReZ9to=/)
 
 ### Week 9 (8 March 2021)
-- Topics: More induction, and boolean algebras 
+- Topics: More induction and boolean algebra 
 - Reading: Chapters 5 & 6
 - Miro Links: [M](https://miro.com/app/board/o9J_lQw_Vek=/),
     [Mb](https://miro.com/app/board/o9J_lQw_Vbg=/),
@@ -366,7 +366,7 @@ hear or smell you.
 
 ### Week 12
 
-- Topics: Counting andProbability 
+- Topics: Counting and Probability 
 - Reading: Chapter 9
 - Miro Links: [M](https://miro.com/app/board/o9J_lMtHemg=/),
     [Mb](https://miro.com/app/board/o9J_lMtHen8=/),
