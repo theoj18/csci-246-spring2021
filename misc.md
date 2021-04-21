@@ -14,7 +14,7 @@ Throughout this semester, you will have the opportunity to attend various semina
 
 ## Without Specific Dates
 
-Each of the following assingments is due one week after the event.  You can make
+Each of the following assignments is due one week after the event.  You can make
 one submission per category.  (Note that these assignments show a due date of
 Monday, 26 April 2021 since the actual event that you attend is not fixed).
 
@@ -50,7 +50,7 @@ Monday, 26 April 2021 since the actual event that you attend is not fixed).
    a one-page reflection on whatever it is you did. What
    impact that that have on your ability to focus?  Do you have any additional
    short-term goals that you can set for your future self?
-8. Visit the art exhit
+8. Visit the art exhibit
    [The Botany of Math](http://www.theemerson.org/events/exhibit-mathre/)
    at the Emerson.  Write a 1-2 page reflection on your experience.
 9. Find a reference (direct or indirect) of something relating to this class in
