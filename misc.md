@@ -96,3 +96,6 @@ intersection.
 
 G. Anna's Practice Talk.  Attend the PhD proposal practice talk of Anna
 Schenfisch on Tuesday, 6 April 15:00-16:30 (see link in discord).
+
+H. Final Presentations. Attend at least two of the final presentations from the
+capstone course CSCI 483. Details: Sub Ballroom A from 11 am to 1:30 pm on April 22, and April 29. Reflection due: 30 April 2021. 
