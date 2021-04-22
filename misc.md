@@ -3,7 +3,7 @@
 Throughout this semester, you will have the opportunity to attend various seminars or events, and write a brief reflection on them for credit in the miscellaneous category. These reflections should be written as a formal two-page paper. In general, you may consider the following questions when writing your reflection, but there are no specific formatting requirements (unless otherwise stated):
 
 * What did you learn?
-* What is a piece of advise that you took away?
+* What is a piece of advice that you took away?
 * Did an audience member ask a question that you particularly liked or disliked?
 * Is there a question that you wish you could have asked but didn't?
 * If related to the event, what were you thinking about as you were leaving?
