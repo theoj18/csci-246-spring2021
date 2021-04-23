@@ -402,8 +402,9 @@ hear or smell you.
 - Miro Links: [M](https://miro.com/app/board/o9J_lJMn4Ig=/),
    [Mb](https://miro.com/app/board/o9J_lJMn4I0=/),
    [W](https://miro.com/app/board/o9J_lJMn4UQ=/),
-   [Wb](https://miro.com/app/board/o9J_lJMn4L0=/)
-
+   [Wb](https://miro.com/app/board/o9J_lJMn4L0=/),
+   [F](https://miro.com/app/board/o9J_lITj3Fo=/),
+   [Fb](https://miro.com/app/board/o9J_lITj3GM=/)
 
 --- 
 
