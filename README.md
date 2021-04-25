@@ -1,6 +1,6 @@
 # CSCI 246: Discrete Structures, Spring 2021 #
 
-This repository is for class materials for Discrete Structures, Fall 2021, taught by Prof. Fasy.
+This repository is for class materials for Discrete Structures, Spring 2021, taught by Prof. Fasy.
 
 Course Catalog Description: This course covers logic, discrete probability,
 recurrence relations, Boolean algebra, sets, relations, counting, functions,
@@ -11,7 +11,7 @@ From the Instructor: This course is NOT a programming class, and is not
 structured like other 100- and 200-level courses.  In this course, we will
 do many proofs and even have some writing exercises. 
 
-## Land Acknowledgemen
+## Land Acknowledgement
 
 Living in Montana, we are on the ancestral lands of American Indians, including
 the 12 tribal nations that call Montana home today: A’aninin (Gros Ventre),
@@ -46,13 +46,13 @@ Where? Zoom
 ## How do I contact you?
 
 The preferred method to ask questions relating to this class is a public post on
-the class discussion board. ***TODO: preferred discussion board?*** 
+the class discussion board (discord).
 
 Office hours: Please email or call in advance if you plan to join.  This will
 eliminate waiting (both on your end and on our end).
 
 * Prof. Fasy (x4804): MW, after class, and by appointment.
-* TA: TODO 
+* TA: Monday 11am-12pm by appointment. Please schedule an appointment using [MSU Appointment Scheduler](https://www.montana.edu/scheduler/login/student/?fac=11433).
 
 ## What is in this repository?
 
@@ -71,24 +71,32 @@ I suggest [creating a fork](https://help.github.com/articles/fork-a-repo/),
 so that you can use your fork to maintain your own
 materials for this class.  See the resources section below for forking directions.
 
-To clone this repo:
+To clone this repo using HTTPS:
 ```
-$ git clone https://bitbucket.org/msu-cs/csci-246-fall2018.git
+$ git clone https://github.com/brittany/csci-246-spring2021.git
+
 ```
+
+To clone this repo using SSH:
+```
+$ git clone git@github.com:msu/csci-246-spring2021.git
+```
+
 
 ## Other Course Tools 
 
-- Group discussions, questions, and announcements will be through [Piazza](TODO).
+- Group discussions, questions, and announcements will be through [Discord](
+https://discord.com/channels/798957218384183427/798957219885350986).
 - Homework will be graded on Gradescope.
 
 ## Grading
 Your grade for this class will be determined by:
 
-- ??% WebAssign and Class Participation 
-- ??% Homework
-- ??% Midterm
-- ??% Final 
-- ??% Miscellaneous Opportunities
+- 30% WebAssign and Class Participation 
+- 30% Homework
+- 15% Midterm (12 March 2021)
+- 15% Final (30 April 2021) 
+- 12% Miscellaneous Opportunities
 
 ## Class Policies
 
@@ -260,7 +268,143 @@ hear or smell you.
 - Topics: Introduction to Proofs, LaTex 
 - Reading: Chapters 1 and 2
 - Miro Links: [M](https://miro.com/app/board/o9J_lYjeVOc=/), [W](https://miro.com/app/board/o9J_lYjeVAM=/),
-  [Wb](https://miro.com/app/board/o9J_lYjeVOc=/), F
+  [Wb](https://miro.com/app/board/o9J_lYjeVOc=/),
+  [F](https://miro.com/app/board/o9J_lY4PAhw=/)
+
+### Week 2 (18 January 2021)
+- Monday is a holiday: MLK day
+- Topics: Sets, Truth Tables 
+- Reading: Chapter 2
+- Miro Links: [W](https://miro.com/app/board/o9J_lYfSSec=/),
+  [Wb](https://miro.com/app/board/o9J_lYfSTkQ=/), [F](https://miro.com/app/board/o9J_lXxJB5M=/), [Fb](https://miro.com/app/board/o9J_lXxVOK4=/)
+
+### Week 3 (24 January 2021)
+- Topics: Compound Logic Statements, Predicates, and Quantified Statements 
+- Reading: Chapter 3 
+- Miro Links: [M](https://miro.com/app/board/o9J_lXAMeqs=/),
+  [Mb](https://miro.com/app/board/o9J_lXAMe_E=/), [W](https://miro.com/app/board/o9J_lWjUKUY=/),
+  [Wb](https://miro.com/app/board/o9J_lWjUKV8=/), [F](https://miro.com/app/board/o9J_lW0dcX4=/),
+  [Fb](https://miro.com/app/board/o9J_lW0dcQs=/) 
+
+### Week 4 (1 February 2021)
+- Topics: Basic Arguments
+- Reading: Chapter 3
+- Miro Links: [M](https://miro.com/app/board/o9J_lWHaFy4=/),
+  [Mb](https://miro.com/app/board/o9J_lWHaFE8=/),
+  [W](https://miro.com/app/board/o9J_lVg2hgU=/),
+  [Wb](https://miro.com/app/board/o9J_lVg2hsU=/),
+  [F](https://miro.com/app/board/o9J_lV4QR0I=/),
+  [Fb](https://miro.com/app/board/o9J_lV4QR1k=/)
+
+### Week 5 (8 February 2021)
+- Topics: Direct Proof and Counter Example
+- Reading: Sections 4.1-6
+- Miro Links: [M](https://miro.com/app/board/o9J_lVMrS4M=/),
+    [Mb](https://miro.com/app/board/o9J_lVMrSHk=/),
+    [W](https://miro.com/app/board/o9J_lUqwRXU=/),
+    [Wb](https://miro.com/app/board/o9J_lUqwRX0=/),
+    [F](https://miro.com/app/board/o9J_lU_ZDi0=/),
+    [Fb](https://miro.com/app/board/o9J_lU_ZDjg=/)
+
+### Week 6 (16 February 2021)
+- Topics: proof by contradiction, gcd algorithm
+- Reading: Chapter 4
+- Miro Links: [W](https://miro.com/app/board/o9J_lTtx36M=/),
+    [Wb](https://miro.com/app/board/o9J_lTtx3OE=/),
+    [F](https://miro.com/app/board/o9J_lTLipvY=/),
+    [Fb](https://miro.com/app/board/o9J_lTLipvk=/)
+
+### Week 7 (22 February 2021)
+- Topics: Induction
+- Reading: Chapter 5
+- Miro Links: [M](https://miro.com/app/board/o9J_lTY9Gr0=/),
+    [Mb](https://miro.com/app/board/o9J_lTY9G1E=/)
+    [W](https://miro.com/app/board/o9J_lS19VVA=/),
+    [Wb](https://miro.com/app/board/o9J_lS19VWE=/),
+    [F](https://miro.com/app/board/o9J_lSI1AyI=/),
+    [Fb](https://miro.com/app/board/o9J_lSI1A9I=/)
+
+### Week 8 (1 March 2021)
+- Topics: Induction and Recursion, loop invariants
+- Reading: Chapter 5
+- Miro Links: [M](https://miro.com/app/board/o9J_lRncUt8=/),
+    [Mb](https://miro.com/app/board/o9J_lRncUtk=/),
+    [W](https://miro.com/app/board/o9J_lRCYU9s=/),
+    [Wb](https://miro.com/app/board/o9J_lRCYU-U=/),
+    [F](https://miro.com/app/board/o9J_lReZ9tQ=/),
+    [Fb](https://miro.com/app/board/o9J_lReZ9to=/)
+
+### Week 9 (8 March 2021)
+- Topics: More induction, and boolean algebras 
+- Reading: Chapters 5 & 6
+- Miro Links: [M](https://miro.com/app/board/o9J_lQw_Vek=/),
+    [Mb](https://miro.com/app/board/o9J_lQw_Vbg=/),
+    [W](https://miro.com/app/board/o9J_lQSs0x0=/),
+    [Wb](https://miro.com/app/board/o9J_lQSs0H0=/),
+    [F](https://miro.com/app/board/o9J_lPucMq4=/),
+    [Fb](https://miro.com/app/board/o9J_lPucM0Q=/)
+
+### Week 10 (15 March 2021)
+- Topics: Functions
+- Reading: Chapter 7
+- Miro Links: [M](https://miro.com/app/board/o9J_lPAKI28=/),
+    [Mb](https://miro.com/app/board/o9J_lPAKI2g=/),
+    [W](https://miro.com/app/board/o9J_lOm8zv0=/),
+    [Wb](https://miro.com/app/board/o9J_lOm8zos=/),
+    [F](https://miro.com/app/board/o9J_lOG_9Yw=/),
+    [Fb](https://miro.com/app/board/o9J_lOG_9bY=/)
+
+### Week 11 (22 March 2021)
+- Topics: Relations
+- Reading: Chapter 8
+- Miro Links: [M](https://miro.com/app/board/o9J_lOYSHWw=/),
+    [Mb](https://miro.com/app/board/o9J_lOYSHXw=/),
+    [W](https://miro.com/app/board/o9J_lN5CHpQ=/),
+    [Wb](https://miro.com/app/board/o9J_lN5CHq8=/),
+    [F](https://miro.com/app/board/o9J_lNbk66A=/),
+    [Fb](https://miro.com/app/board/o9J_lNbk67M=/)
+
+### Week 12
+
+- Topics: Counting andProbability 
+- Reading: Chapter 9
+- Miro Links: [M](https://miro.com/app/board/o9J_lMtHemg=/),
+    [Mb](https://miro.com/app/board/o9J_lMtHen8=/),
+    [W](https://miro.com/app/board/o9J_lMGNUN8=/),
+    [Wb](https://miro.com/app/board/o9J_lMGNUOY=/)
+
+### Week 13
+
+- Topics: Probability and Graphs
+- Reading: Chapter 9 and 10
+- Miro Links: [M](https://miro.com/app/board/o9J_lLuQ110=/),
+  [Mb](https://miro.com/app/board/o9J_lLuQ1qA=/),
+  [W](https://miro.com/app/board/o9J_lLKju6Y=/),
+  [Wb](https://miro.com/app/board/o9J_lLKju5A=/),
+  [F](https://miro.com/app/board/o9J_lKlKZn0=/),
+  [Fb](https://miro.com/app/board/o9J_lKlKZgQ=/)
+
+### Week 14
+
+- Topics: Asymptotics
+- Reading: Chapter 11
+- Miro Links: [M](https://miro.com/app/board/o9J_lK7APus=/),
+    [Mb](https://miro.com/app/board/o9J_lK7APow=/),
+    [W](https://miro.com/app/board/o9J_lKc9WpE=/),
+    [Wb](https://miro.com/app/board/o9J_lKc9WqU=/),
+    [F](https://miro.com/app/board/o9J_lJ952FM=/),
+    [Fb](https://miro.com/app/board/o9J_lJ952GU=/)
+
+### Week 15
+
+- Topics: More Asymptotics
+- Reading: Chapter 11
+- Miro Links: [M](https://miro.com/app/board/o9J_lJMn4Ig=/),
+   [Mb](https://miro.com/app/board/o9J_lJMn4I0=/),
+   [W](https://miro.com/app/board/o9J_lJMn4UQ=/),
+   [Wb](https://miro.com/app/board/o9J_lJMn4L0=/),
+   [F](https://miro.com/app/board/o9J_lITj3Fo=/),
+   [Fb](https://miro.com/app/board/o9J_lITj3GM=/)
 
 --- 
 
