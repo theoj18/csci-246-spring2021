@@ -3,7 +3,7 @@
 Throughout this semester, you will have the opportunity to attend various seminars or events, and write a brief reflection on them for credit in the miscellaneous category. These reflections should be written as a formal two-page paper. In general, you may consider the following questions when writing your reflection, but there are no specific formatting requirements (unless otherwise stated):
 
 * What did you learn?
-* What is a piece of advise that you took away?
+* What is a piece of advice that you took away?
 * Did an audience member ask a question that you particularly liked or disliked?
 * Is there a question that you wish you could have asked but didn't?
 * If related to the event, what were you thinking about as you were leaving?
@@ -65,7 +65,7 @@ A. [Audun Myers, Separating Noise from Data using Sublevel Set Persistence with 
 
 B. [Peng Zhang, Efficient Algorithms for Fundamental Problems in Data
 Science](https://montana.webex.com/montana/j.php?MTID=m16141ab25b6a846dc83b104c6ff50c2b).
-Tuesday, 26 January at 15:00.  Passsword is`jZJK2sAPn87.
+Tuesday, 26 January at 15:00.  Password is`jZJK2sAPn87.
 
 C. 246 Writing workshop on 3/4. When you join, please bring a short writing
 sample (something that can be read in 5-10 minutes).  This can be either a proof
