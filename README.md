@@ -406,6 +406,13 @@ hear or smell you.
    [F](https://miro.com/app/board/o9J_lITj3Fo=/),
    [Fb](https://miro.com/app/board/o9J_lITj3GM=/)
 
+### Week 16
+
+- Topics: Wrap-Up
+- Reading: Chapter 12
+- Miro Links: [M](https://miro.com/app/board/o9J_lHskd-4=/),
+    [Mb](https://miro.com/app/board/o9J_lHskd_c=/)
+
 --- 
 
 This syllabus was created, using wording from previous courses that I have
