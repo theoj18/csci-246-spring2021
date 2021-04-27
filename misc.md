@@ -19,7 +19,7 @@ one submission per category.  (Note that these assignments show a due date of
 Monday, 26 April 2021 since the actual event that you attend is not fixed).
 
 1. Attend one of the CS seminars. They are held Mondays 16:10-17:00.  Please
-   join cs-announce the notification of who is speaking each week (and the WebEx
+   join cs-announce to receive notification of who is speaking each week (and the WebEx
    link).
 2. Attend a writing workshop.  They are held on Fridays, 9:00-10:00 (please see
    discord for the link, or ask Prof. Fasy).  When you join, please bring a
