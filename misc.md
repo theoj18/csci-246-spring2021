@@ -3,7 +3,7 @@
 Throughout this semester, you will have the opportunity to attend various seminars or events, and write a brief reflection on them for credit in the miscellaneous category. These reflections should be written as a formal two-page paper. In general, you may consider the following questions when writing your reflection, but there are no specific formatting requirements (unless otherwise stated):
 
 * What did you learn?
-* What is a piece of advise that you took away?
+* What is a piece of advice that you took away?
 * Did an audience member ask a question that you particularly liked or disliked?
 * Is there a question that you wish you could have asked but didn't?
 * If related to the event, what were you thinking about as you were leaving?
@@ -14,7 +14,7 @@ Throughout this semester, you will have the opportunity to attend various semina
 
 ## Without Specific Dates
 
-Each of the following assingments is due one week after the event.  You can make
+Each of the following assignments is due one week after the event.  You can make
 one submission per category.  (Note that these assignments show a due date of
 Monday, 26 April 2021 since the actual event that you attend is not fixed).
 
@@ -50,6 +50,12 @@ Monday, 26 April 2021 since the actual event that you attend is not fixed).
    a one-page reflection on whatever it is you did. What
    impact that that have on your ability to focus?  Do you have any additional
    short-term goals that you can set for your future self?
+8. Visit the art exhibit
+   [The Botany of Math](http://www.theemerson.org/events/exhibit-mathre/)
+   at the Emerson.  Write a 1-2 page reflection on your experience.
+9. Find a reference (direct or indirect) of something relating to this class in
+   the news.  Was the concept used or applied correctly?  Using this article,
+   explain the concept to your imaginary 8-year-old sibling.
 
 ## With Specific Dates
 
@@ -59,7 +65,7 @@ A. [Audun Myers, Separating Noise from Data using Sublevel Set Persistence with 
 
 B. [Peng Zhang, Efficient Algorithms for Fundamental Problems in Data
 Science](https://montana.webex.com/montana/j.php?MTID=m16141ab25b6a846dc83b104c6ff50c2b).
-Tuesday, 26 January at 15:00.  Passsword is`jZJK2sAPn87.
+Tuesday, 26 January at 15:00.  Password is`jZJK2sAPn87.
 
 C. 246 Writing workshop on 3/4. When you join, please bring a short writing
 sample (something that can be read in 5-10 minutes).  This can be either a proof
@@ -84,3 +90,12 @@ E. Provost distinguished lecture.  Dr. John Sheppard gave the provost
 distinguished lecture on 9 March 2021.  The recording is available
 [here](https://www.montana.edu/pdl/).  Please watch this and write a reflection
 (see prompts at the top of this file).  Due: 17 March 2021.
+
+F. Boolean Algebra.  Let $S$ be a set.  Let $2^S$ denote the power set of $S$.  Consider the two operations of union and intersection of sets in $2^S$.  Prove that this forms a boolean algebra.  Due: 29 March 2021.
+intersection.
+
+G. Anna's Practice Talk.  Attend the PhD proposal practice talk of Anna
+Schenfisch on Tuesday, 6 April 15:00-16:30 (see link in discord).
+
+H. Final Presentations. Attend at least two of the final presentations from the
+capstone course CSCI 483. Details: Sub Ballroom A from 11 am to 1:30 pm on April 22, and April 29. Reflection due: 30 April 2021. 

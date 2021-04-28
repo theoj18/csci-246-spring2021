@@ -1,6 +1,6 @@
 # CSCI 246: Discrete Structures, Spring 2021 #
 
-This repository is for class materials for Discrete Structures, Fall 2021, taught by Prof. Fasy.
+This repository is for class materials for Discrete Structures, Spring 2021, taught by Prof. Fasy.
 
 Course Catalog Description: This course covers logic, discrete probability,
 recurrence relations, Boolean algebra, sets, relations, counting, functions,
@@ -11,7 +11,7 @@ From the Instructor: This course is NOT a programming class, and is not
 structured like other 100- and 200-level courses.  In this course, we will
 do many proofs and even have some writing exercises. 
 
-## Land Acknowledgemen
+## Land Acknowledgement
 
 Living in Montana, we are on the ancestral lands of American Indians, including
 the 12 tribal nations that call Montana home today: A’aninin (Gros Ventre),
@@ -198,7 +198,7 @@ responsible for the honest completion and representation of their work, the
 appropriate citation of sources and the respect and recognition of others'
 academic endeavors.
 
-Plagiarism will not be tolerated in this course. According to the Meriam-Webster
+Plagiarism will not be tolerated in this course. According to the Merriam-Webster
 dictionary, plagiarism is `the act of using another person's words or ideas
 without giving credit to that person.'  Proper credit means describing all
 outside resources (conversations, websites, etc.), and explaining the extent to
@@ -350,7 +350,61 @@ hear or smell you.
 - Miro Links: [M](https://miro.com/app/board/o9J_lPAKI28=/),
     [Mb](https://miro.com/app/board/o9J_lPAKI2g=/),
     [W](https://miro.com/app/board/o9J_lOm8zv0=/),
-    [Wb](https://miro.com/app/board/o9J_lOm8zos=/)
+    [Wb](https://miro.com/app/board/o9J_lOm8zos=/),
+    [F](https://miro.com/app/board/o9J_lOG_9Yw=/),
+    [Fb](https://miro.com/app/board/o9J_lOG_9bY=/)
+
+### Week 11 (22 March 2021)
+- Topics: Relations
+- Reading: Chapter 8
+- Miro Links: [M](https://miro.com/app/board/o9J_lOYSHWw=/),
+    [Mb](https://miro.com/app/board/o9J_lOYSHXw=/),
+    [W](https://miro.com/app/board/o9J_lN5CHpQ=/),
+    [Wb](https://miro.com/app/board/o9J_lN5CHq8=/),
+    [F](https://miro.com/app/board/o9J_lNbk66A=/),
+    [Fb](https://miro.com/app/board/o9J_lNbk67M=/)
+
+### Week 12
+
+- Topics: Counting andProbability 
+- Reading: Chapter 9
+- Miro Links: [M](https://miro.com/app/board/o9J_lMtHemg=/),
+    [Mb](https://miro.com/app/board/o9J_lMtHen8=/),
+    [W](https://miro.com/app/board/o9J_lMGNUN8=/),
+    [Wb](https://miro.com/app/board/o9J_lMGNUOY=/)
+
+### Week 13
+
+- Topics: Probability and Graphs
+- Reading: Chapter 9 and 10
+- Miro Links: [M](https://miro.com/app/board/o9J_lLuQ110=/),
+  [Mb](https://miro.com/app/board/o9J_lLuQ1qA=/),
+  [W](https://miro.com/app/board/o9J_lLKju6Y=/),
+  [Wb](https://miro.com/app/board/o9J_lLKju5A=/),
+  [F](https://miro.com/app/board/o9J_lKlKZn0=/),
+  [Fb](https://miro.com/app/board/o9J_lKlKZgQ=/)
+
+### Week 14
+
+- Topics: Asymptotics
+- Reading: Chapter 11
+- Miro Links: [M](https://miro.com/app/board/o9J_lK7APus=/),
+    [Mb](https://miro.com/app/board/o9J_lK7APow=/),
+    [W](https://miro.com/app/board/o9J_lKc9WpE=/),
+    [Wb](https://miro.com/app/board/o9J_lKc9WqU=/),
+    [F](https://miro.com/app/board/o9J_lJ952FM=/),
+    [Fb](https://miro.com/app/board/o9J_lJ952GU=/)
+
+### Week 15
+
+- Topics: More Asymptotics
+- Reading: Chapter 11
+- Miro Links: [M](https://miro.com/app/board/o9J_lJMn4Ig=/),
+   [Mb](https://miro.com/app/board/o9J_lJMn4I0=/),
+   [W](https://miro.com/app/board/o9J_lJMn4UQ=/),
+   [Wb](https://miro.com/app/board/o9J_lJMn4L0=/),
+   [F](https://miro.com/app/board/o9J_lITj3Fo=/),
+   [Fb](https://miro.com/app/board/o9J_lITj3GM=/)
 
 --- 
 
