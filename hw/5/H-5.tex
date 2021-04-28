@@ -1,10 +1,10 @@
 \documentclass{article}
-\usepackage{../fasy-hw}
+\usepackage{fasy-hw}
 
 %% UPDATE these variables:
 \renewcommand{\hwnum}{5}
 \title{Discrete Structures, Homework \hwnum}
-\author{\todo{Your Name Here} (\todo{your discord handle here})}
+\author{{Robert Van Spyk} @RobertVanSpyk }
 \collab{n/a}
 \date{due: 19 March 2021}
 
@@ -28,7 +28,7 @@ General homework expectations:
 
 % ============================================
 % ============================================
-\collab{\todo{}} \nextprob{Colors}
+\collab{n/a} \nextprob{Colors}
 % ============================================
 % ============================================
 
@@ -42,13 +42,25 @@ might be colour deficient or have Colour deficiency(or have a bad computer scree
 
 \paragraph{Answer}
 
-\todo{your answer here}
+{
+
+1. Avoid using similar shades of most to all colors. For color blind people this has been proven to be difficult but in addition to this bad computer monitors may have a limited or damaged color range which can make similar shades nearly impossible to differentiate.
+
+2. Offer color swapping to different color groups where color may be needed can be useful. Many video games use this in order to accomadate for many types of color blindness. This industry standard is often always found in the graphical settings of most AAA titles proven effective in real applications.
+
+3. Using more than just color in data can remedy most issues with technical papers. Using different textures and symbols along with colors can be a way to not only be color blind friendly but to better differentiate your data for any viewer. 
+
+4. Use a colorblind-friendly pallete bad color combinations such as common color blindess types like red green and green brown. According to "The Company of Biologists" based  in Cambridge, UK this is a proven tatic to make products mroe accessible. Red Green is one of the most common types of color blindness but also be aware that other types do exsit.
+
+5. Go for a minilmalistic design by limiting the amount of colors and tones you may use. This is one way to address multiple types of color blindness and to overall make your product cleaner in design.
+
+}
 
 
 
 % ============================================
 % ============================================
-\collab{\todo{}} \nextprob{The Complete Bipartite Graph $K_{n,n}$}
+\collab{n/a} \nextprob{The Complete Bipartite Graph $K_{n,n}$}
 % ============================================
 % ============================================
 
@@ -60,14 +72,38 @@ what is the number of edges in $K_{n,m}$?
 
 \paragraph{Answer}
 
-\todo{your answer here}
+{
+
+
+Conjecture: The bipartite graph of $ k_{n,m}$ has $ n^{2}$ edges
+
+Proving the more general case:
+
+$ k_{n,m}$ has n X m edges in total
+
+Since $ k_{n,m}$ is a complete bipartite graph, it can be written as a union of $ V_{1}$ and $ V_{2}$ where:
+
+n =$ |V_{1}| $
+
+m = $| V_{2}|$
+
+
+We also know from $ k_{n,m}$ being a complete bipartite graph that $ k_{n,m}$ has exactly one edge between every vertex in $ V_{1}$ and $ V_{2}$
+
+Therefore we know there is exactly a single edge for each choice of a vertex in $ V_{1}$ and $ V_{2}$
+
+Using the product rule there are $|V_{1}|$ * $|V_{2}|$= n*m ways to choose a vertex in $ V_{1}$ and a vertex in $ V_{2}$
+
+Therefore $ k_{n,m}$ has n*m edges and with m = n we have $ k_{n,n}$ which equals $ n^{2}$ edges
+
+}
 
 
 
 
 % ============================================
 % ============================================
-\collab{\todo{}} \nextprob{Four Colors Suffice}
+\collab{n/a} \nextprob{Four Colors Suffice}
 % ============================================
 % ============================================
 
@@ -81,9 +117,7 @@ Read Chapters $7$ and $8$ of \emph{Four Colors Suffice}.
 
         \paragraph{Answer}
 
-        \todo{your answer here}
-
-
+        {Another formula known as Euler's formula is $ e^{ix}$ = cos(x) + i sin(x) which deals with trigonometry.}
 
     \item  Consider the following construction: Start with a solid cube.  Then, slice
         off a small region around each vertex (image you have a sharp knife, so you take
@@ -92,9 +126,7 @@ Read Chapters $7$ and $8$ of \emph{Four Colors Suffice}.
 
         \paragraph{Answer}
 
-        \todo{your answer here}
-
-
+        {Before the operation there are 8 vertices, 12 edges,  and 6 faces. After the operation we have  24 vertices, 36 edges, and 14 faces. The typical name for this polyhedron is a Truncated Cube. }
 
 
     \item Draw a projection of the octahedron onto the plane such that edges only
@@ -102,14 +134,14 @@ Read Chapters $7$ and $8$ of \emph{Four Colors Suffice}.
 
         \paragraph{Answer}
 
-        \todo{your answer here}
+       {Yes, every polyhedron can be drawn in such a way.}
 
 
 \end{enumerate}
 
 % ============================================
 % ============================================
-\collab{\todo{}}
+\collab{n/a}
 \nextprob{Fran Allen}
 % ============================================
 % ============================================
@@ -123,14 +155,24 @@ proper citations. If you do not use external sources, please write ``I did not
 use any sources to write this biography'' as the last sentence of the
 biography.
 
+
 \paragraph{Answer}
 
-\todo{your answer here}
+{Frances Allen or better known as Fran Allen was born in Peru, New York in 1932. For her education she went to The New York State College for Teachers where she graduated with a bachelors in mathematics. Shortly after graduation she would start teaching math at high school in Peru, New York. After the short two years of teaching Ms. Allen would continue her education and pursue a masters degree at the University of Michigan in mathematics. After Ms. Allen's graduation she would begin working at IBM research where she would continue with a teaching career as she taught incoming employees on the basics of Fortran, an early programming language. Throughout her life she would accomplish much such as becoming a fellow at IBM, IEEE, ACM, and the Computer History Museum. She would receive many rewards such as the IEEE Computer Society Charles Babbage Award, Computer Pioneer Award, Augusta Ada Lovelace Award, ABIE Award for Technical Leadership, and most notably the Turing award where she was the first woman to achieve this award.
+
+Frances Allen's importance to computer science has been widely recognized through her accolades. The Computer History Museum stated she was important to computer science because of "her contributions to program optimization and compiling for parallel computers". Much of her contributions were done through her nearly 45 year career in IBM. Ms. Allen worked on the Harvest Project which was used by the NSA for code breaking. Ms. Allen also worked on the Stretch project which was a supercomputer, her job in both of these projects was to manage the compiler optimization team. Later on in her career she would write with Mr. Cocke on a group of papers on optimizing computers, one of the most notable ones being "A Catalog of Optimizing Transformations''. By herself she would also contribute papers such as "Control Flow Analysis" and "A Basis for Program Optimization" both being significant to data flow optimization. On top of all of her contributions to optimizations she also had a significant role in parallel computing by leading IBM's work in the area. Overall Ms. Allen's contributions to computer science from optimization and to parallel computing stands to be an inspiration to Woman seeking computer science careers
+}
+
 
 % %% ... the bibliography
-% \newpage
-% \bibliographystyle{acm}
-% \bibliography{biblio}
+\newpage
+\bibliographystyle{acm}
+\bibliography{biblio}
+
+\paragraph{Cited Sources: IBMLabs. “Remembering IBM Fellow and Turing Award Recipient, Fran Allen.” YouTube, YouTube, 13 Nov. 2020, www.youtube.com/watch?v=o5O1DkqsTCg&amp;t=51s.}
+
+
+
 
 \end{document}
 

@@ -51,7 +51,7 @@ Here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-an
 ## 6. Clone your repository
 
 To download your repository so it's ready for modifications, we need to clone
-it.  Run the following command with <repo url> replaced with the url to your
+it.  Run the following command with repo url replaced with the url to your
 private repository (you can find this by clicking the Code button in GitHub).
 
     git clone <repo url>

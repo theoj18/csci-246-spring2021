@@ -65,7 +65,7 @@ A. [Audun Myers, Separating Noise from Data using Sublevel Set Persistence with 
 
 B. [Peng Zhang, Efficient Algorithms for Fundamental Problems in Data
 Science](https://montana.webex.com/montana/j.php?MTID=m16141ab25b6a846dc83b104c6ff50c2b).
-Tuesday, 26 January at 15:00.  Passsword is`jZJK2sAPn87.
+Tuesday, 26 January at 15:00.  Password is`jZJK2sAPn87.
 
 C. 246 Writing workshop on 3/4. When you join, please bring a short writing
 sample (something that can be read in 5-10 minutes).  This can be either a proof
