@@ -411,7 +411,9 @@ hear or smell you.
 - Topics: Wrap-Up
 - Reading: Chapter 12
 - Miro Links: [M](https://miro.com/app/board/o9J_lHskd-4=/),
-    [Mb](https://miro.com/app/board/o9J_lHskd_c=/)
+    [Mb](https://miro.com/app/board/o9J_lHskd_c=/),
+    [W](https://miro.com/app/board/o9J_lHNecn0=/),
+    [Wb](https://miro.com/app/board/o9J_lHNecmg=/)
 
 --- 
 
